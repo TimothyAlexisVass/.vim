@@ -1,3 +1,4 @@
 #!/bin/sh
 sudo cp .vimrc /root/
-sudo ln -s ~/.vim/.vimrc ~/.vimrc 
+sudo ln -s ~/.vim/.vimrc ~/.vimrc
+sudo cp colors/sharp.vim /usr/share/vim/vim*/colors/
