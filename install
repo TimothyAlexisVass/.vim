@@ -1,0 +1,2 @@
+sudo cp .vimrc /root/
+sudo ln -s ~/.vim/.vimrc ~/.vimrc 
