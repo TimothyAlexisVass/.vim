@@ -1,3 +1,3 @@
 syntax on
-colorscheme koehler
+colorscheme sharp
 autocmd BufNewFile,BufRead *.tt set filetype=html
